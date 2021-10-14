@@ -1,4 +1,4 @@
-package typecast;
+package sept2521.typecast;
 
 public class TypecastExample {
 
